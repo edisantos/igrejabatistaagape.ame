@@ -1,0 +1,6 @@
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\bin\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.deps.json
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\bin\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.dll
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\obj\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.csprojAssemblyReference.cache
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\obj\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.csproj.CoreCompileInputs.cache
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\obj\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.AssemblyInfoInputs.cache
+C:\Users\edina\OneDrive\Projetos\AME\igrejabatistaagape.ame\igrejabastitaagape.ame.data.DataContexto\obj\Debug\netcoreapp2.2\igrejabastitaagape.ame.data.DataContexto.AssemblyInfo.cs
